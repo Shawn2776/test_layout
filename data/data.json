@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "year": "2025",
+    "month": "March",
+    "day": "16",
+    "time": "13:13",
+    "description": "Zelle: Keith Harrington",
+    "category": "Transfer",
+    "amount": 3000,
+    "currentBalance": 3000,
+    "type": "deposit"
+  },
+  {
+    "id": 2,
+    "year": "2025",
+    "month": "March",
+    "day": "17",
+    "time": "17:13",
+    "description": "McDonald's",
+    "category": "restaurant",
+    "amount": 16.63,
+    "currentBalance": 2983.37,
+    "type": "debit"
+  },
+  {
+    "id": 3,
+    "year": "2025",
+    "month": "March",
+    "day": "16",
+    "time": "17:13",
+    "description": "Maverick",
+    "category": "Gas Station",
+    "amount": 18.19,
+    "currentBalance": 2965.18,
+    "type": "debit"
+  },
+  {
+    "id": 4,
+    "year": "2025",
+    "month": "March",
+    "day": "16",
+    "time": "13:13",
+    "description": "Zelle: Keith Harrington",
+    "category": "Transfer",
+    "amount": 30,
+    "currentBalance": 2995.18,
+    "type": "deposit"
+  },
+  {
+    "id": 5,
+    "year": "2025",
+    "month": "March",
+    "day": "15",
+    "time": "17:13",
+    "description": "ICCU Cash Withdrawal",
+    "category": "ATM",
+    "amount": 143.0,
+    "currentBalance": 2852.18,
+    "type": "debit"
+  },
+  {
+    "id": 6,
+    "year": "2025",
+    "month": "March",
+    "day": "14",
+    "time": "17:13",
+    "description": "Airway Heights Casino Withdrawal",
+    "category": "ATM",
+    "amount": 43.0,
+    "currentBalance": 2809.18,
+    "type": "debit"
+  },
+  {
+    "id": 7,
+    "year": "2025",
+    "month": "March",
+    "day": "14",
+    "time": "12:13",
+    "description": "Elmer's Restaurant",
+    "category": "restaurant",
+    "amount": 41.06,
+    "currentBalance": 2768.12,
+    "type": "debit"
+  },
+  {
+    "id": 8,
+    "year": "2025",
+    "month": "March",
+    "day": "14",
+    "time": "11:13",
+    "description": "Maverick",
+    "category": "Gas",
+    "amount": 21.15,
+    "currentBalance": 2746.97,
+    "type": "debit"
+  }
+]
