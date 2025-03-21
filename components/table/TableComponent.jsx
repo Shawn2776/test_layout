@@ -17,7 +17,9 @@ const TableComponent = ({ txs }) => {
           <TableHead className="w-[100px]">Date</TableHead>
           <TableHead>Description</TableHead>
           <TableHead className="text-right">Amount</TableHead>
-          <TableHead className="text-right">Current Balance</TableHead>
+          <TableHead className="text-right hidden md:grid">
+            Current Balance
+          </TableHead>
         </TableRow>
       </TableHeader>
       <TableBody>
@@ -31,7 +33,7 @@ const TableComponent = ({ txs }) => {
               <br />
               {tx.category}
             </TableCell>
-            <TableCell className="text-right">
+            <TableCell className="text-right hidden md:grid">
               <span
                 className={`${
                   tx.type === "deposit" ? "text-green-800" : "text-red-500"

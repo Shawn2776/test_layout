@@ -10,7 +10,7 @@ const AllAccountsList = () => {
     <div className="">
       <div className="">
         <div className="flex justify-between items-center w-full">
-          <h2 className="flex gap-1 items-center">
+          <h2 className="flex gap-1 items-center text-red-500">
             <BsDot /> Checking
           </h2>
           <p className="">$0.03</p>
